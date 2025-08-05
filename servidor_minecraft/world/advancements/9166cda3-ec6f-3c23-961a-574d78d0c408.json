@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-08-05 17:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-05 17:00:00 +0000"
@@ -44,6 +50,12 @@
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-08-05 16:51:29 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-08-05 17:09:12 +0000"
     },
     "done": true
   },
@@ -82,6 +94,7 @@
       "beaches": "2025-08-05 16:56:00 +0000",
       "desert_hills": "2025-08-05 16:56:01 +0000",
       "plains": "2025-08-05 16:51:29 +0000",
+      "ocean": "2025-08-05 17:06:24 +0000",
       "river": "2025-08-05 16:55:43 +0000",
       "desert": "2025-08-05 16:55:46 +0000"
     },
@@ -105,9 +118,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-05 17:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-05 17:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-05 17:14:15 +0000"
     },
     "done": true
   },
@@ -171,9 +202,21 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-08-05 17:09:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2025-08-05 16:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-05 17:07:06 +0000"
     },
     "done": true
   },
@@ -195,15 +238,33 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-08-05 17:11:41 +0000"
+    },
+    "done": true
+  },
   "bewitchment:root": {
     "criteria": {
       "tick": "2025-08-05 16:51:29 +0000"
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-08-05 17:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-05 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-05 17:07:06 +0000"
     },
     "done": true
   },
@@ -237,6 +298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-05 17:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-05 17:00:00 +0000"
@@ -246,6 +313,12 @@
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-08-05 16:55:42 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-08-05 17:06:54 +0000"
     },
     "done": true
   },
@@ -260,6 +333,18 @@
       "entered_water": "2025-08-05 16:55:42 +0000"
     },
     "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-08-05 17:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-08-05 17:14:15 +0000"
+    },
+    "done": false
   },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
@@ -276,6 +361,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-08-05 16:51:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:07:06 +0000"
     },
     "done": true
   },
@@ -378,6 +469,12 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-08-05 16:51:29 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "ceiling": "2025-08-05 17:13:58 +0000"
     },
     "done": true
   }
