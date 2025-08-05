@@ -5300,3 +5300,44 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [17:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
 [17:55:34] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
 [17:55:34] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[17:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was poked to death by a sweet berry bush
+[17:56:34] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:511, y:68, z:199] in the dimension 0
+[17:56:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[17:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Magic Writing]
+[17:57:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:57:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! -2.439013730125339,-9.429767041756463,-4.742860353800552
+[17:57:43] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-18, -41] in dimension 0 (overworld) while populating chunk [-18, -40], causing cascading worldgen lag.
+[17:57:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:57:46] [Server thread/WARN] [FML]: Bewitchment loaded a new chunk [-2, -43] in dimension 0 (overworld) while populating chunk [-1, -42], causing cascading worldgen lag.
+[17:57:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:59:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, -7] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[17:59:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:59:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-14, -7] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[17:59:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:59:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-13, -6] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[17:59:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:59:59] [Server thread/WARN] [FML]: Quark loaded a new chunk [-14, -6] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[17:59:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:00:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-15, -8] in dimension 0 (overworld) while populating chunk [-14, -9], causing cascading worldgen lag.
+[18:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:02:58] [Server thread/WARN] [FML]: Quark loaded a new chunk [28, -28] in dimension 0 (overworld) while populating chunk [28, -27], causing cascading worldgen lag.
+[18:02:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [37, -26] in dimension 0 (overworld) while populating chunk [37, -27], causing cascading worldgen lag.
+[18:03:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:04:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:04:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:05:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:06:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [A True Source of Evil]
+[18:06:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[18:12:55] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[18:12:55] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[18:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss was slain by Hunter
+[18:12:59] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:690, y:66, z:-152] in the dimension 0
+[18:13:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
+[18:13:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.passive.EntityBat from class divinerpg.objects.entities.entity.vanilla.EntityJungleBat
+[18:14:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [49, -25] in dimension 0 (overworld) while populating chunk [50, -24], causing cascading worldgen lag.
+[18:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:14:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [49, -26] in dimension 0 (overworld) while populating chunk [50, -24], causing cascading worldgen lag.
+[18:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:15:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno

@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-08-05 18:07:30 +0000",
       "beaches": "2025-08-05 16:56:00 +0000",
       "desert_hills": "2025-08-05 16:56:01 +0000",
       "forest_hills": "2025-08-05 17:30:21 +0000",
@@ -190,6 +191,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2025-08-05 16:55:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-08-05 17:57:19 +0000"
     },
     "done": true
   },
@@ -450,6 +457,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-05 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-08-05 18:04:58 +0000"
     },
     "done": true
   },
