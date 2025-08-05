@@ -4972,3 +4972,66 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [17:13:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
 [17:13:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [17:14:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:17:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:17:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [A Seedy Place]
+[17:17:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:17:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:21:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[17:21:47] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[17:21:47] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[17:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[17:21:52] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[17:21:52] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[17:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Werewolf
+[17:21:57] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:54, y:77, z:-1] in the dimension 0
+[17:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Your First Grave]
+[17:21:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:21:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[17:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss was slain by Werewolf
+[17:21:59] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:59, y:77, z:-1] in the dimension 0
+[17:21:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Your First Grave]
+[17:21:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:21:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:21:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:22:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
+[17:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Knowledge of Death]
+[17:22:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has reached the goal [Here They Come]
+[17:22:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Knowledge of Death]
+[17:22:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has reached the goal [Here They Come]
+[17:22:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:22:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:22:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [A Strange Grave's Dust]
+[17:22:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:23:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [A Strange Grave's Dust]
+[17:23:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[17:25:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
