@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-08-05 17:22:11 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 17:51:54 +0000"
@@ -176,6 +188,12 @@
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
     },
     "done": true
   },
@@ -281,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
@@ -379,6 +403,12 @@
       "golden_carrot": "2025-08-05 17:29:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
+    },
+    "done": true
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -745,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-08-05 18:20:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 17:51:54 +0000"
@@ -886,6 +922,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-05 18:21:19 +0000"
     },
     "done": true
   },

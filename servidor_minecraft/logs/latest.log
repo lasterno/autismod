@@ -5341,3 +5341,70 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [18:14:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [49, -26] in dimension 0 (overworld) while populating chunk [50, -24], causing cascading worldgen lag.
 [18:14:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [18:15:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Given Sanguinare Vampiris (ID 129) * 0 to ErPatatusssss for 30 seconds]
+[18:17:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:20:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:21:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[18:21:36] [Server thread/INFO] [morpheus]: ErPatatusssss is now sleeping. 1/2 (50%)
+[18:21:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ErPatatusssss moved wrongly!
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Stone Age]
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:22:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Acquire Hardware]
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
