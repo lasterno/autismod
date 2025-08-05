@@ -393,7 +393,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-08-05 17:14:15 +0000",
-      "beetroot": "2025-08-05 17:17:26 +0000"
+      "beetroot": "2025-08-05 17:17:26 +0000",
+      "carrot": "2025-08-05 17:36:01 +0000"
     },
     "done": false
   },
