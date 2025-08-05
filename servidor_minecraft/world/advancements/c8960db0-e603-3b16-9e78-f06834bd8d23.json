@@ -1,4 +1,188 @@
 {
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2025-08-05 16:55:54 +0000",
+      "desert_hills": "2025-08-05 16:55:57 +0000",
+      "plains": "2025-08-05 16:49:17 +0000",
+      "river": "2025-08-05 16:54:49 +0000",
+      "desert": "2025-08-05 16:55:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-05 16:58:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_planks": "2025-08-05 16:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-05 16:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-05 16:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:root": {
+    "criteria": {
+      "tick": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
@@ -14,18 +198,6 @@
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2025-08-05 16:49:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_mahogany": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:tutorial/root": {
-    "criteria": {
-      "auto": "2025-08-05 16:49:17 +0000"
     },
     "done": true
   },
@@ -53,15 +225,21 @@
     },
     "done": true
   },
-  "mysticalworld:root": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "auto": "2025-08-05 16:49:17 +0000"
+      "has_egg": "2025-08-05 16:58:53 +0000"
     },
     "done": true
   },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-05 16:58:53 +0000"
     },
     "done": true
   },
@@ -77,34 +255,16 @@
     },
     "done": true
   },
-  "mcwlights:recipes/torches": {
-    "criteria": {
-      "has_wood": "2025-08-05 16:49:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_fir": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "plains": "2025-08-05 16:49:17 +0000",
-      "river": "2025-08-05 16:54:49 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-05 16:54:50 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_classic": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_planks": "2025-08-05 16:54:50 +0000"
+      "yellow_flower": "2025-08-05 16:58:53 +0000",
+      "red_flower": "2025-08-05 16:58:53 +0000"
     },
     "done": true
   },
@@ -120,6 +280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-05 16:58:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
@@ -132,31 +298,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_willow": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "cfm:install": {
-    "criteria": {
-      "tick": "2025-08-05 16:49:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
     },
@@ -168,25 +310,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_pine": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_palm": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
     },
@@ -198,39 +322,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
+      "has_stonebrick": "2025-08-05 16:58:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "entered_water": "2025-08-05 16:54:49 +0000"
+      "has_stonebrick": "2025-08-05 16:58:53 +0000"
     },
     "done": true
   },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-08-05 16:49:17 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:root": {
-    "criteria": {
-      "tick": "2025-08-05 16:49:17 +0000"
     },
     "done": true
   }
