@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-05 18:30:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2025-08-05 16:55:42 +0000"
@@ -266,6 +272,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-08-05 17:09:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-08-05 18:29:13 +0000"
     },
     "done": true
   },
@@ -520,6 +532,13 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-08-05 17:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-05 18:26:56 +0000",
+      "iron_helmet": "2025-08-05 18:26:56 +0000"
     },
     "done": true
   },
@@ -847,6 +866,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-08-05 16:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-05 18:30:38 +0000"
     },
     "done": true
   },

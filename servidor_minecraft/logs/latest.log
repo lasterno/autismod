@@ -5408,3 +5408,13 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [18:25:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:26:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Suit Up]
+[18:26:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:29:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
+[18:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
+[18:29:13] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno
+[18:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [First Blood]
+[18:29:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:30:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[18:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Getting an Upgrade]
+[18:30:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
