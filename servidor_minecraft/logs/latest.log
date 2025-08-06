@@ -5011,3 +5011,53 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [11:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
 [11:56:41] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
 [11:56:41] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[11:57:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Sentry
+[11:57:41] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:686, y:64, z:-166] in the dimension 0
+[11:57:44] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[11:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[11:58:06] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[11:58:06] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[11:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has reached the goal [Chain Death]
+[11:58:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[11:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Sentry
+[11:58:12] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:681, y:65, z:-147] in the dimension 0
+[11:58:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[12:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Isn't It Iron Pick]
+[12:00:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:03:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:03:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:03:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:05:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:05:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Isn't It Iron Pick]
+[12:12:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Stone Age]
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:13:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:14:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! -15.691033842937827,6.129713523681005,8.04084301116552
+[12:15:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 11.571820646896356,1.232622061531785,-4.062679858259713
+[12:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:15:43] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:15:43] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:15:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:15:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:16:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[12:16:23] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[12:16:23] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[12:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Desert Crawler
+[12:16:27] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:502, y:64, z:-86] in the dimension 0
+[12:16:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[12:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss was slain by Desert Crawler
+[12:16:43] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:502, y:64, z:-88] in the dimension 0
+[12:16:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
