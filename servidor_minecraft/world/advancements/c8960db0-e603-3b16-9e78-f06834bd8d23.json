@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-06 14:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-05 17:28:58 +0000"
@@ -788,6 +794,12 @@
     },
     "done": false
   },
+  "bewitchment:mined_salt": {
+    "criteria": {
+      "hat": "2025-08-06 14:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-08-06 11:29:52 +0000"
@@ -845,6 +857,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-08-06 11:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-06 14:13:00 +0000"
     },
     "done": true
   },
@@ -1559,6 +1577,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:mined_silver": {
+    "criteria": {
+      "hat": "2025-08-06 14:13:00 +0000"
     },
     "done": true
   },
