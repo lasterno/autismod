@@ -578,6 +578,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2025-08-06 18:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-06 18:10:35 +0000"
