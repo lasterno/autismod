@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/birch_planks_path": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-06 11:22:25 +0000"
@@ -343,6 +349,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-08-05 18:04:58 +0000"
@@ -358,6 +376,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-06 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -761,6 +785,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-08-06 11:26:59 +0000",
+      "witch": "2025-08-06 19:24:45 +0000",
       "spider": "2025-08-06 19:09:44 +0000"
     },
     "done": false
@@ -792,6 +817,18 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-05 17:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -837,9 +874,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-06 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -1216,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-05 16:59:21 +0000"
@@ -1231,6 +1286,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-06 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -1291,6 +1352,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-05 18:25:11 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -1360,6 +1427,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 18:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
@@ -1438,6 +1511,12 @@
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-05 18:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 19:16:30 +0000"
     },
     "done": true
   },
