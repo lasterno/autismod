@@ -840,7 +840,8 @@
     "criteria": {
       "skeleton": "2025-08-06 15:21:16 +0000",
       "zombie": "2025-08-06 09:27:21 +0000",
-      "cave_spider": "2025-08-06 15:30:17 +0000"
+      "cave_spider": "2025-08-06 15:30:17 +0000",
+      "spider": "2025-08-06 17:54:59 +0000"
     },
     "done": false
   },
@@ -1813,6 +1814,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-08-05 17:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-06 18:14:31 +0000"
     },
     "done": true
   },
