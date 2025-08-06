@@ -644,6 +644,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 12:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2025-08-05 16:58:53 +0000"
