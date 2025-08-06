@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-06 18:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-05 17:00:25 +0000"
@@ -442,6 +448,12 @@
   "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-08-06 18:10:35 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-08-06 18:20:19 +0000"
     },
     "done": true
   },
@@ -965,6 +977,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-05 18:39:51 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-06 18:19:33 +0000"
     },
     "done": true
   },
