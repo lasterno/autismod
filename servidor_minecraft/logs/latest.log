@@ -4685,3 +4685,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [09:13:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [09:13:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [09:16:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 7.904931202387139,0.0,-6.57978745427458
+[09:27:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[09:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Monster Hunter]
+[09:27:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[09:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[09:27:24] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[09:27:24] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[09:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Zombie
+[09:27:32] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:797, y:64, z:-183] in the dimension 0
+[09:27:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[09:28:47] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.passive.EntityBat from class divinerpg.objects.entities.entity.vanilla.EntityJungleBat
+[09:32:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved wrongly!
