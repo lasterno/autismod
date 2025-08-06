@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_garnet": {
+    "criteria": {
+      "hat": "2025-08-06 15:15:08 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2025-08-05 16:49:17 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-06 09:10:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 15:43:20 +0000"
     },
     "done": true
   },
@@ -395,6 +407,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-06 11:23:55 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2025-08-06 15:20:07 +0000"
     },
     "done": true
   },
@@ -814,7 +832,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2025-08-06 09:27:21 +0000"
+      "skeleton": "2025-08-06 15:21:16 +0000",
+      "zombie": "2025-08-06 09:27:21 +0000",
+      "cave_spider": "2025-08-06 15:30:17 +0000"
     },
     "done": false
   },
@@ -962,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2025-08-06 15:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-05 16:58:53 +0000"
@@ -1010,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2025-08-06 15:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-08-06 09:10:48 +0000"
@@ -1031,6 +1063,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-06 09:10:48 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-08-06 15:18:30 +0000"
     },
     "done": true
   },
@@ -1099,6 +1137,18 @@
       "has_planks": "2025-08-05 17:25:28 +0000"
     },
     "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-06 15:24:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-08-06 15:25:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
@@ -1256,6 +1306,12 @@
     },
     "done": true
   },
+  "bewitchment:mined_amethyst": {
+    "criteria": {
+      "hat": "2025-08-06 15:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-08-05 16:58:53 +0000"
@@ -1286,6 +1342,18 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-08-06 15:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-08-06 15:43:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "yellow_flower": "2025-08-05 16:58:53 +0000",
@@ -1310,6 +1378,12 @@
       "iron_pickaxe": "2025-08-06 12:12:55 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-06 17:22:09 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
@@ -1478,6 +1552,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_planks": "2025-08-06 15:43:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
@@ -1487,6 +1567,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-06 12:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-06 15:30:22 +0000"
     },
     "done": true
   },
@@ -1505,6 +1591,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-08-05 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2025-08-06 15:18:14 +0000"
     },
     "done": true
   },
@@ -1541,6 +1633,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 17:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-08-06 15:19:15 +0000"
     },
     "done": true
   },
@@ -1589,6 +1687,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-08-05 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-08-06 15:18:16 +0000"
     },
     "done": true
   },
@@ -1661,6 +1765,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-08-05 16:49:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 17:41:25 +0000"
     },
     "done": true
   },
