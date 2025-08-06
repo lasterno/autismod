@@ -1,4 +1,22 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2025-08-06 18:54:59 +0000"
@@ -11,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-08-06 19:32:22 +0000"
@@ -20,6 +44,12 @@
   "tombstone:tutorial/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-08-06 19:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2025-08-06 19:46:47 +0000"
     },
     "done": true
   },
@@ -41,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-08-06 18:54:09 +0000"
@@ -52,6 +88,7 @@
       "forest": "2025-08-06 18:55:31 +0000",
       "forest_hills": "2025-08-06 18:59:28 +0000",
       "plains": "2025-08-06 18:54:09 +0000",
+      "taiga": "2025-08-06 19:50:47 +0000",
       "river": "2025-08-06 18:55:00 +0000",
       "desert": "2025-08-06 18:55:03 +0000"
     },
@@ -189,6 +226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-06 19:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-08-06 18:54:59 +0000"
@@ -228,6 +271,12 @@
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-08-06 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-06 19:50:12 +0000"
     },
     "done": true
   },
@@ -273,6 +322,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "spider": "2025-08-06 19:46:47 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-08-06 19:46:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-08-06 19:22:12 +0000"
@@ -306,6 +367,12 @@
   "mcwlights:recipes/sea_lantern_slab": {
     "criteria": {
       "has_wood": "2025-08-06 18:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-06 19:50:12 +0000"
     },
     "done": true
   },
@@ -408,6 +475,12 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-08-06 18:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-06 19:50:12 +0000"
     },
     "done": true
   }

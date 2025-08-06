@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 19:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-06 09:10:48 +0000"
@@ -1681,6 +1687,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-06 12:13:53 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-06 19:51:20 +0000"
     },
     "done": true
   },
