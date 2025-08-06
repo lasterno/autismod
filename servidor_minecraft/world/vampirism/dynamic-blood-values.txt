@@ -1,0 +1,8 @@
+#Dynamically calculated blood values - DON'T EDIT
+mysticalworld:entity_fox=4
+futuremc:bee=3
+quark:crab=4
+mysticalworld:entity_deer=10
+toroquest:toroquest_toro=8
+bewitchment:snake=3
+mysticalworld:entity_beetle=4
