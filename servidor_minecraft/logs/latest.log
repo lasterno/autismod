@@ -4682,3 +4682,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [09:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was crushed by a falling tree
 [09:11:55] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:691, y:65, z:-217] in the dimension 0
 [09:11:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[09:13:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[09:13:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[09:16:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 7.904931202387139,0.0,-6.57978745427458
