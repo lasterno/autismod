@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-06 20:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-05 17:25:28 +0000"
@@ -509,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-06 20:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 17:51:54 +0000"
@@ -830,6 +842,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-05 17:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-06 20:14:31 +0000"
     },
     "done": true
   },
@@ -1576,6 +1594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-06 20:14:31 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lantern": {
     "criteria": {
       "lantern": "2025-08-05 17:13:31 +0000"
@@ -1753,6 +1777,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2025-08-06 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-06 20:14:31 +0000"
     },
     "done": true
   },
