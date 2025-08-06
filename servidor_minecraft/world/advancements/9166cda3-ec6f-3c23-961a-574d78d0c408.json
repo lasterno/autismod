@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-06 11:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 18:25:10 +0000"
@@ -268,6 +274,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-08-05 18:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-06 11:46:24 +0000"
     },
     "done": true
   },
@@ -722,6 +734,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-06 11:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-08-05 18:25:11 +0000"
@@ -927,6 +945,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-06 11:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-05 18:25:11 +0000"
@@ -1101,6 +1125,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-05 18:39:51 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-06 11:42:33 +0000"
     },
     "done": true
   },
