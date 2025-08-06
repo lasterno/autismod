@@ -5124,3 +5124,62 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [12:27:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [12:27:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [12:27:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Ancient knowledge]
+[12:28:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss has made the advancement [Yuck!]
+[12:31:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[12:31:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Yuck!]
+[12:31:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:32:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 1.1743670516428892,-10.08360171074682,-0.2793641808277414
+[12:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[12:33:37] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[12:33:37] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[12:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Sentry
+[12:33:40] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:673, y:63, z:-187] in the dimension 0
+[12:33:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[12:34:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Magic Writing]
+[12:34:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:34:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Play Of Color]
+[12:34:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:35:22] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:35:22] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Trial And Error]
+[12:35:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[12:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:03] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:03] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:13] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:13] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:21] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:21] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:29] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:29] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:35] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:35] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:41] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:41] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:47] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:47] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:36:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:36:53] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:36:53] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss is bleeding...
+[12:37:03] [Server thread/INFO] [tombstone]: The death event of the player ErPatatusssss was cancelled by another mod
+[12:37:03] [Server thread/INFO] [tombstone]: ErPatatusssss has successfully been saved
+[12:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ErPatatusssss did not like the sun
+[12:37:09] [Server thread/INFO] [tombstone]: The last known grave of ErPatatusssss is at location [name:Last Grave, x:416, y:63, z:-101] in the dimension 0
+[12:37:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to ErPatatusssss
+[12:37:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved too quickly! 10.436437035829726,4.839339855501009,-1.0626243760601994
+[12:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[12:37:31] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[12:37:31] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[12:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno did not like the sun
+[12:37:35] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:533, y:68, z:-99] in the dimension 0
+[12:37:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
