@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-08 12:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:53:51 +0000"
@@ -655,6 +661,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2025-08-08 12:54:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-07 18:05:31 +0000"
@@ -948,6 +960,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-08 12:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-07 18:05:15 +0000"
@@ -1020,6 +1038,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-08-08 13:05:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/spruce_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-08 09:51:02 +0000"
@@ -1029,6 +1053,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-07 18:57:03 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-08-08 13:06:04 +0000"
     },
     "done": true
   },

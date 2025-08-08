@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-08 12:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
@@ -631,6 +637,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2025-08-08 10:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-08 12:55:30 +0000"
     },
     "done": true
   },
@@ -1387,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-08 12:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 19:20:27 +0000"
@@ -1498,6 +1516,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-08 09:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-08 12:58:20 +0000"
     },
     "done": true
   },
@@ -1834,6 +1858,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-08-08 12:55:30 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-08-07 17:03:11 +0000"
@@ -1876,6 +1906,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-08-08 12:55:30 +0000"
+    },
+    "done": true
+  },
   "divinerpg:overworld/root": {
     "criteria": {
       "divinerpg": "2025-08-07 17:03:11 +0000"
@@ -1903,6 +1939,12 @@
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-08 12:58:20 +0000"
     },
     "done": true
   },
