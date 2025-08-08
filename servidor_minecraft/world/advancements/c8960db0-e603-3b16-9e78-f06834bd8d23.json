@@ -53,9 +53,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -74,6 +86,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-07 18:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -149,6 +167,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-07 18:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce_planks_path": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -567,6 +591,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-08-07 18:29:29 +0000"
@@ -621,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-07 19:04:23 +0000"
@@ -660,6 +696,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/oil": {
     "criteria": {
       "in_oil": "2025-08-07 18:50:44 +0000"
@@ -669,6 +711,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-08-07 18:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -948,6 +996,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2025-08-08 08:09:54 +0000"
@@ -1020,6 +1074,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2025-08-07 18:29:29 +0000"
@@ -1029,6 +1089,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-08-07 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -1146,9 +1212,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-08-07 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
   },
@@ -1299,6 +1377,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-08-07 19:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-08-08 10:13:09 +0000"
     },
     "done": true
   },
