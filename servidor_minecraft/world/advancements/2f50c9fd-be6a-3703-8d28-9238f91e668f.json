@@ -1598,6 +1598,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "flower": "2025-08-08 15:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:34:47 +0000"
