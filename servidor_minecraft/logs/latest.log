@@ -5012,3 +5012,86 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [10:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Vampire Baron Level 1
 [10:20:05] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-162, y:67, z:309] in the dimension 0
 [10:20:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[10:20:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[10:20:45] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[10:20:45] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[10:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Mutant Creeper
+[10:20:48] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-273, y:66, z:282] in the dimension 0
+[10:20:50] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[10:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[10:21:08] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[10:21:08] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[10:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Mutant Creeper
+[10:21:17] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-261, y:60, z:264] in the dimension 0
+[10:21:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[10:21:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! -6.182866357505759,0.689941879895315,7.880494917551573
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:23:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[10:23:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[10:23:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[10:25:25] [Server thread/WARN] [vampirism]: [InputEventPacket]Skill vampirism:bat(ActionSkill) cannot be activated for GCEntityPlayerMP['AmongUS'/40543, l='world', x=-278.70, y=64.00, z=252.08] (ALREADY_ENABLED)
+[10:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[10:27:16] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[10:27:16] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[10:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[10:27:26] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[10:27:26] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[10:28:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
