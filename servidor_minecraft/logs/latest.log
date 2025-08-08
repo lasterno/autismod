@@ -5670,3 +5670,25 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:41:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by ErPatatusssss
 [16:41:06] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-287, y:64, z:222] in the dimension 0
 [16:41:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[16:41:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 2.7306988736730773,-1.6377346719227717,-10.69197577805619
+[16:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lasterno: Set the time to 13000]
+[16:43:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: lasterno moved wrongly!
+[16:43:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved wrongly!
+[16:46:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[16:46:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[16:46:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[16:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[16:48:00] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[16:48:00] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[16:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Cyclops
+[16:48:03] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-341, y:67, z:200] in the dimension 0
+[16:48:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[16:49:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[16:50:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[16:50:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[16:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[16:50:25] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[16:50:25] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[16:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS burned to ashes
+[16:50:31] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-344, y:65, z:244] in the dimension 0
+[16:50:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS

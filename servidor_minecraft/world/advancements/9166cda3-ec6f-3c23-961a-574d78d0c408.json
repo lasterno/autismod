@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-08 16:50:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 18:15:30 +0000"
@@ -431,6 +437,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-08 14:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-08 16:46:17 +0000"
     },
     "done": true
   },
@@ -666,6 +678,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-08-07 18:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-08 16:50:14 +0000"
     },
     "done": true
   },
