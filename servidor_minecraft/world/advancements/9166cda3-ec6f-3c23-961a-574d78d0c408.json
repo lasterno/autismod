@@ -777,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-08 16:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-08 14:52:03 +0000"
@@ -928,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-08 16:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -1068,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-08 16:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-08-08 16:04:09 +0000"
@@ -1173,6 +1191,12 @@
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_planks": "2025-08-07 17:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-08-08 16:12:46 +0000"
     },
     "done": true
   },
