@@ -224,6 +224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 16:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -569,6 +575,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2025-08-07 18:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 16:03:55 +0000"
     },
     "done": true
   },
@@ -1053,6 +1065,12 @@
   "defiledlands:main/root": {
     "criteria": {
       "swamp_defiled": "2025-08-07 18:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-08 16:04:09 +0000"
     },
     "done": true
   },
