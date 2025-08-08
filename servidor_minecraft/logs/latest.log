@@ -4805,3 +4805,33 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [07:39:44] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to lasterno
 [07:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
 [07:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:01:34] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[08:01:34] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[08:01:34] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[08:01:34] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[08:01:34] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[08:01:34] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[08:01:42] [Server thread/WARN] [FML]: Quark loaded a new chunk [-33, 28] in dimension 0 (overworld) while populating chunk [-32, 28], causing cascading worldgen lag.
+[08:01:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:01:42] [Server thread/WARN] [FML]: Quark loaded a new chunk [-34, 28] in dimension 0 (overworld) while populating chunk [-32, 28], causing cascading worldgen lag.
+[08:01:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:01:48] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-33, 23] in dimension 0 (overworld) while populating chunk [-33, 24], causing cascading worldgen lag.
+[08:01:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:03:21] [Server thread/WARN] [FML]: Quark loaded a new chunk [-38, 9] in dimension 0 (overworld) while populating chunk [-38, 8], causing cascading worldgen lag.
+[08:03:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:03:22] [Server thread/WARN] [FML]: Quark loaded a new chunk [-39, 4] in dimension 0 (overworld) while populating chunk [-38, 5], causing cascading worldgen lag.
+[08:03:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:03:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-39, 5] in dimension 0 (overworld) while populating chunk [-38, 5], causing cascading worldgen lag.
+[08:03:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:03:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-40, 4] in dimension 0 (overworld) while populating chunk [-38, 5], causing cascading worldgen lag.
+[08:03:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-29 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim-29.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-29 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-29.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-30 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim-30.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-30 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-30.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-31 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim-31.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-31 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-31.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-28 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim-28.config
+[08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-28 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-28.config
+[08:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [First Blood]
+[08:09:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
