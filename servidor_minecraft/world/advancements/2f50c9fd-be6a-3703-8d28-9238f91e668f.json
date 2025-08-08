@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-08 14:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-07 18:18:12 +0000"
@@ -790,6 +796,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-07 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-08-08 14:55:06 +0000"
     },
     "done": true
   },
@@ -2000,6 +2012,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-08-07 17:56:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 14:56:31 +0000"
     },
     "done": true
   },

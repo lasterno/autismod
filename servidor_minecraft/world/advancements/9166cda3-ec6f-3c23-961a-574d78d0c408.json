@@ -131,6 +131,14 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-08 14:51:28 +0000",
+      "diamond_helmet": "2025-08-08 14:51:28 +0000",
+      "diamond_chestplate": "2025-08-08 14:51:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
@@ -227,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-08-08 14:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
@@ -242,6 +256,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-08-08 14:41:19 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-08-08 14:49:38 +0000"
     },
     "done": true
   },
@@ -552,6 +572,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-08-08 14:49:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
@@ -609,6 +635,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2025-08-08 14:56:18 +0000"
     },
     "done": true
   },
@@ -791,6 +823,12 @@
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-08-08 14:49:38 +0000"
     },
     "done": true
   },
