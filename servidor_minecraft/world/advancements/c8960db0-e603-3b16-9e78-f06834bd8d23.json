@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 16:55:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-07 18:30:49 +0000"
@@ -1315,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 16:56:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2025-08-07 18:29:29 +0000"
@@ -1570,6 +1582,13 @@
   "ebwizardry:root": {
     "criteria": {
       "criteria_0": "2025-08-07 18:52:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-08-08 16:55:24 +0000",
+      "red_flower": "2025-08-08 16:55:24 +0000"
     },
     "done": true
   },
@@ -1906,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 16:55:24 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
@@ -2119,6 +2144,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-08-08 10:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 16:55:27 +0000"
     },
     "done": true
   },

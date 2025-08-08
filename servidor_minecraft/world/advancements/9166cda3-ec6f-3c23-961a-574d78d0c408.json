@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-08-08 16:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -1054,6 +1060,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bark/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 16:53:41 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_wood": "2025-08-07 17:53:48 +0000"
@@ -1070,6 +1082,7 @@
     "criteria": {
       "forest": "2025-08-07 17:53:48 +0000",
       "plains": "2025-08-07 18:07:16 +0000",
+      "roofed_forest": "2025-08-08 16:53:27 +0000",
       "river": "2025-08-07 18:07:10 +0000"
     },
     "done": false
@@ -1233,6 +1246,12 @@
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2025-08-07 18:38:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_planks": "2025-08-08 16:53:41 +0000"
     },
     "done": true
   },
