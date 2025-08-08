@@ -201,6 +201,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-08 15:44:11 +0000",
       "cooked_chicken": "2025-08-07 18:26:38 +0000"
     },
     "done": false
@@ -585,6 +586,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2025-08-08 15:47:48 +0000",
       "spider": "2025-08-08 15:10:07 +0000"
     },
     "done": false

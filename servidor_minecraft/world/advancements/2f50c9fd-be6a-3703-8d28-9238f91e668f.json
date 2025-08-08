@@ -1939,6 +1939,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-08 15:48:18 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-07 19:23:01 +0000"
