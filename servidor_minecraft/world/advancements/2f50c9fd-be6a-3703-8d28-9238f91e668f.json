@@ -409,6 +409,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 14:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-08 14:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:34:47 +0000"
@@ -928,6 +940,12 @@
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-08-07 18:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 14:47:01 +0000"
     },
     "done": true
   },
