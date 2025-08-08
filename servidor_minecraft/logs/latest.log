@@ -5491,3 +5491,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [10:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was killed by Wizard using magic
 [10:48:47] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-383, y:69, z:263] in the dimension 0
 [10:48:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[10:50:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AmongUS lost connection: Disconnected
+[10:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS left the game
+[10:50:56] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AmongUS
+[10:50:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
+[10:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
+[10:50:57] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno
