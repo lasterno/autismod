@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 14:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-08 10:23:38 +0000"
@@ -595,6 +601,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2025-08-08 12:15:59 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-08-08 14:35:15 +0000"
     },
     "done": true
   },
@@ -1219,6 +1231,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-08-08 14:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
@@ -1366,6 +1384,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-08 10:23:38 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-08-08 14:35:15 +0000"
     },
     "done": true
   },
@@ -1837,6 +1861,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-08 14:35:27 +0000"
     },
     "done": true
   },
