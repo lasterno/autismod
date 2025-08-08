@@ -861,6 +861,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-08-08 16:25:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:01 +0000"
@@ -1003,6 +1009,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-08 14:43:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 16:26:34 +0000"
     },
     "done": true
   },
