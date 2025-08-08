@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-08 07:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-07 18:33:36 +0000"
@@ -345,6 +351,12 @@
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2025-08-07 17:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-08-08 07:50:41 +0000"
     },
     "done": true
   },

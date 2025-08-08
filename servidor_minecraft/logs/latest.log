@@ -4803,3 +4803,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [07:39:35] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player lasterno
 [07:39:44] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of lasterno (18)
 [07:39:44] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to lasterno
+[07:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[07:50:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
