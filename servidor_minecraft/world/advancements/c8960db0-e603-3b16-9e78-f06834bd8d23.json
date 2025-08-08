@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-08 08:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-07 18:58:57 +0000"
@@ -598,7 +604,8 @@
     "criteria": {
       "skeleton": "2025-08-08 08:13:32 +0000",
       "zombie": "2025-08-07 18:51:05 +0000",
-      "spider": "2025-08-07 18:49:14 +0000"
+      "spider": "2025-08-07 18:49:14 +0000",
+      "creeper": "2025-08-08 08:23:08 +0000"
     },
     "done": false
   },
@@ -809,6 +816,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2025-08-07 18:32:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 08:29:41 +0000"
     },
     "done": true
   },
@@ -1247,6 +1260,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-08-07 17:03:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 08:23:51 +0000"
     },
     "done": true
   },

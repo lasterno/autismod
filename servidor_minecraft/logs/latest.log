@@ -4847,3 +4847,103 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [08:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was shot by Skeleton
 [08:16:16] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-377, y:54, z:287] in the dimension 0
 [08:16:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:23:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:23:36] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:23:36] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was shot by Skeleton
+[08:23:38] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-267, y:62, z:289] in the dimension 0
+[08:23:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [Ashes 'n Bones]
+[08:23:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:25:42] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[08:25:42] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 154 mods : cyclopscore@1.6.7,grapplemod@1.12.2-v13,netherportalfix@5.3.17,beyondtheveil@1.12.2-0.3.2,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,dynamictreesquark@1.12.2-1.0.6,futuremc@0.2.6,dynamictreesvampirism@1.12.2-1.0.1,mcwwindows@1.0,bettercaves@1.12.2,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,cookingforblockheads@6.5.0,placebo@1.6.0,evilcraft@0.10.78,bewitchment@0.22.65,fencejumper@1.0.5,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,dynamictreesmysticalworld@1.12.2-1.0.1,fpsboostremake@1.0.0,llibrary@1.7.20,buildinggadgets@2.8.4,mcwdoors@1.3,pickupnotifier@1.1.5,waila@1.8.26,props@2.6.3.7,chickens@6.0.4,galacticraftplanets@4.0.7,guideapi@1.12-2.1.8-63,carryon@1.12.3,betterthanmending@1.1.2,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,texfix@4.0,mysticallib@1.12.2-1.13.0,twilightforest@3.11.1021,konkrete@1.6.1,dynamictreesphc@2.0.6,mcwbridges@1.0.6,torchmaster@1.8.5.0,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,defiledlands@1.4.3,mcwfences@1.0.0,mcwtrpdoors@1.0.2,botania@r1.10-364,evilcraftcompat@1.0.0,roguelike@1.8.0,patchouli@1.0-23.6,abyssalcraft@1.11.1,betterbiomeblend@1.12.2-1.1.7-forge,morechickens@3.1.0,hatchery@2.2.2,betterthirdperson@1.9.0,elevatorid@1.3.14,dynamictreesdefiledlands@1.12.2-1.0.0,ftbultimine@1202.3.5,FML@8.0.99.99,tombstone@4.7.5,nucleus@1.0,mcwroofs@1.0.2,cfm@6.3.0,aiimprovements@0.0.1.3,alarmclock@1.12-0.0.2,cherishedworlds@1.12.2-1.0.1,mcwfurnitures@1.0.1,wings@1.1.6,dttraverse@1.12.2-2.1,particleculling@v1.4.3,letmedespawn@1.0,armorplus@1.12.2-11.28.0.69,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,divinerpg@1.7.1,playerrevive@1.0,mcwlights@1.0.6,betteradvancements@0.1.0.77,dynamictreesbop@1.12.2-9999.9999.9999z,rootsclassic@1.12.2-1.1.7,mixinbooter@10.6,pingplusfps@1.0,trashslot@8.4.10,equaldragons@1.1,bountifulbaubles@0.0.1,ebwizardry@4.3.14,jei@4.16.1.301,chunkpregenerator@4.4.9,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,clumps@3.1.2,mcwpaintings@1.0.5,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,travelersbackpack@1.0.35,sereneseasons@1.2.18,storagenetwork@2.0.0,chameleon@1.12-4.1.3,surge@2.0.77,betteranimationscollection2@1.0.2,harvestcraft@1.12.2zb,jeid@1.0.4-SNAPSHOT,foamfixcore@7.7.4,micdoodlecore@4.0.7,traverse@1.6.0,dynamictreestconstruct@1.12.2-1.2.7,mysticalworld@1.12.2-1.11.0,akashictome@1.2-12,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,dynamictreesttf@1.12.2-1.2.3,mcwpaths@1.0.2,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,voicechat@1.12.2-2.5.35,tickcentral@3.2,croparia@2.4,mousetweaks@2.10,baubles@1.5.2,roost@2.0.10,stupidthings@1.1.6,creativecore@1.10.0,howlingmoon@0.9,tctcore@2.0,mantle@1.12-1.3.3.55,quark@r1.6-179,legendarytooltips@1.1.9,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,autoreglib@1.3-32,storagedrawers@5.5.3,galacticraftcore@4.0.7,entityculling@@VER@,statues@0.8.10,fancymenu@2.14.9,fastfurnace@1.3.1,opframe@1.4.0,laggoggles@5,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,toroquest@1.12.2-5.3,foamfix@@VERSION@,thedragonlib@1.12.2-5.3.0,aquaculture@1.6.8,cosmeticarmorreworked@1.12.2-v5a,carbonconfig@1.2.1,stygian@1.0.4
+[08:25:42] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [morpheus] at CLIENT
+[08:25:42] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[08:25:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:25:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AmongUS[/127.161.246.192:60701] logged in with entity id 25905 at (-272.69999998807907, 68.5, 403.69999998807907)
+[08:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS joined the game
+[08:25:49] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[08:25:49] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player AmongUS.
+[08:25:49] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for AmongUS
+[08:25:49] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for AmongUS
+[08:25:49] [Server thread/INFO] [ebwizardry]: Synchronising config settings for AmongUS
+[08:25:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[08:25:49] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['AmongUS'/25905, l='world', x=-272.70, y=68.50, z=403.70] connected. Sending ping
+[08:25:49] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player AmongUS
+[08:25:58] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of AmongUS (18)
+[08:25:58] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to AmongUS
+[08:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:27:01] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:27:01] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:27:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was shot by Skeleton
+[08:27:04] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-249, y:64, z:225] in the dimension 0
+[08:27:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:29:03] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:29:03] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Creeper
+[08:29:05] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-208, y:63, z:293] in the dimension 0
+[08:29:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:29:40] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:29:40] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has reached the goal [Chain Death]
+[08:29:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Creeper
+[08:29:41] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-216, y:63, z:299] in the dimension 0
+[08:29:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:30:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:30:13] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:30:13] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Zombie
+[08:30:26] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-216, y:63, z:306] in the dimension 0
+[08:30:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:30:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 6.552162890027773,1.1661092609382138,7.933007408009303
+[08:31:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:31:12] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:31:12] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Zombie
+[08:31:14] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-225, y:64, z:298] in the dimension 0
+[08:31:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:31:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[08:31:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[08:31:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[08:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:31:51] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:31:51] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:31:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
+[08:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
+[08:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Zombie
+[08:31:53] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-228, y:66, z:290] in the dimension 0
+[08:31:53] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno
+[08:32:22] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[08:32:22] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 154 mods : cyclopscore@1.6.7,grapplemod@1.12.2-v13,netherportalfix@5.3.17,beyondtheveil@1.12.2-0.3.2,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,dynamictreesquark@1.12.2-1.0.6,futuremc@0.2.6,dynamictreesvampirism@1.12.2-1.0.1,mcwwindows@1.0,bettercaves@1.12.2,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,cookingforblockheads@6.5.0,placebo@1.6.0,evilcraft@0.10.78,bewitchment@0.22.65,fencejumper@1.0.5,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,xreliquary@1.12.2-1.3.4.796,dynamictreesmysticalworld@1.12.2-1.0.1,fpsboostremake@1.0.0,llibrary@1.7.20,buildinggadgets@2.8.4,mcwdoors@1.3,pickupnotifier@1.1.5,waila@1.8.26,props@2.6.3.7,chickens@6.0.4,galacticraftplanets@4.0.7,guideapi@1.12-2.1.8-63,carryon@1.12.3,betterthanmending@1.1.2,vampiresneedumbrellas@1.4,teamlapen-lib@1.6.2,texfix@4.0,mysticallib@1.12.2-1.13.0,twilightforest@3.11.1021,konkrete@1.6.1,dynamictreesphc@2.0.6,mcwbridges@1.0.6,torchmaster@1.8.5.0,ptrmodellib@1.0.5,biomesoplenty@7.0.1.2445,defiledlands@1.4.3,mcwfences@1.0.0,mcwtrpdoors@1.0.2,botania@r1.10-364,evilcraftcompat@1.0.0,roguelike@1.8.0,patchouli@1.0-23.6,abyssalcraft@1.11.1,betterbiomeblend@1.12.2-1.1.7-forge,morechickens@3.1.0,hatchery@2.2.2,betterthirdperson@1.9.0,elevatorid@1.3.14,dynamictreesdefiledlands@1.12.2-1.0.0,ftbultimine@1202.3.5,FML@8.0.99.99,tombstone@4.7.5,nucleus@1.0,mcwroofs@1.0.2,cfm@6.3.0,aiimprovements@0.0.1.3,alarmclock@1.12-0.0.2,cherishedworlds@1.12.2-1.0.1,mcwfurnitures@1.0.1,wings@1.1.6,dttraverse@1.12.2-2.1,particleculling@v1.4.3,letmedespawn@1.0,armorplus@1.12.2-11.28.0.69,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,divinerpg@1.7.1,playerrevive@1.0,mcwlights@1.0.6,betteradvancements@0.1.0.77,dynamictreesbop@1.12.2-9999.9999.9999z,rootsclassic@1.12.2-1.1.7,mixinbooter@10.6,pingplusfps@1.0,trashslot@8.4.10,equaldragons@1.1,bountifulbaubles@0.0.1,ebwizardry@4.3.14,jei@4.16.1.301,chunkpregenerator@4.4.9,bauble_wings@1.0.0,waystones@4.1.0,mcp@9.42,clumps@3.1.2,mcwpaintings@1.0.5,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,travelersbackpack@1.0.35,sereneseasons@1.2.18,storagenetwork@2.0.0,chameleon@1.12-4.1.3,surge@2.0.77,betteranimationscollection2@1.0.2,harvestcraft@1.12.2zb,jeid@1.0.4-SNAPSHOT,foamfixcore@7.7.4,micdoodlecore@4.0.7,traverse@1.6.0,dynamictreestconstruct@1.12.2-1.2.7,mysticalworld@1.12.2-1.11.0,akashictome@1.2-12,forge@14.23.5.2859,bloodmagic@1.12.2-2.4.3-105,dynamictreesttf@1.12.2-1.2.3,mcwpaths@1.0.2,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,voicechat@1.12.2-2.5.35,tickcentral@3.2,croparia@2.4,mousetweaks@2.10,baubles@1.5.2,roost@2.0.10,stupidthings@1.1.6,creativecore@1.10.0,howlingmoon@0.9,tctcore@2.0,mantle@1.12-1.3.3.55,quark@r1.6-179,legendarytooltips@1.1.9,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,autoreglib@1.3-32,storagedrawers@5.5.3,galacticraftcore@4.0.7,entityculling@@VER@,statues@0.8.10,fancymenu@2.14.9,fastfurnace@1.3.1,opframe@1.4.0,laggoggles@5,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,toroquest@1.12.2-5.3,foamfix@@VERSION@,thedragonlib@1.12.2-5.3.0,aquaculture@1.6.8,cosmeticarmorreworked@1.12.2-v5a,carbonconfig@1.2.1,stygian@1.0.4
+[08:32:22] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [morpheus] at CLIENT
+[08:32:22] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[08:32:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:32:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lasterno[/127.161.246.192:34907] logged in with entity id 31753 at (-228.430668656378, 66.0, 290.8927947521951)
+[08:32:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno joined the game
+[08:32:26] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:32:26] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player lasterno.
+[08:32:26] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for lasterno
+[08:32:26] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno
+[08:32:26] [Server thread/INFO] [ebwizardry]: Synchronising config settings for lasterno
+[08:32:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:32:26] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['lasterno'/31753, l='world', x=-228.43, y=66.00, z=290.89] connected. Sending ping
+[08:32:26] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player lasterno
+[08:32:31] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of lasterno (18)
+[08:32:31] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to lasterno
+[08:32:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:33:02] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:33:02] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Mutant Zombie
+[08:33:04] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-227, y:63, z:305] in the dimension 0
+[08:33:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:33:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AmongUS lost connection: Disconnected
+[08:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS left the game
+[08:33:25] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client AmongUS
+[08:33:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lasterno lost connection: Disconnected
+[08:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno left the game
+[08:33:26] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lasterno
