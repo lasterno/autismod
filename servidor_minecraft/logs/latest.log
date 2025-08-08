@@ -4835,3 +4835,15 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [08:05:38] [Netty Epoll Server IO #3/INFO] [journeymap]: dim-28 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-28.config
 [08:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [First Blood]
 [08:09:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[08:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:11:39] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:11:39] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:11:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was slain by Ender Spider
+[08:11:41] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-310, y:56, z:323] in the dimension 0
+[08:11:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[08:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno is bleeding...
+[08:16:13] [Server thread/INFO] [tombstone]: The death event of the player lasterno was cancelled by another mod
+[08:16:13] [Server thread/INFO] [tombstone]: lasterno has successfully been saved
+[08:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno was shot by Skeleton
+[08:16:16] [Server thread/INFO] [tombstone]: The last known grave of lasterno is at location [name:Last Grave, x:-377, y:54, z:287] in the dimension 0
+[08:16:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
