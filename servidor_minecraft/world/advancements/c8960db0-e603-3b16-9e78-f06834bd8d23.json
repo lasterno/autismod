@@ -405,6 +405,12 @@
     },
     "done": true
   },
+  "mutantbeasts:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-08-08 10:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-07 18:32:48 +0000"
@@ -729,6 +735,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_necromancy_melee": "2025-08-08 10:33:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-07 19:22:39 +0000"
@@ -776,6 +788,18 @@
       "killed_by_something": "2025-08-07 18:30:49 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 10:39:34 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-08-08 10:33:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -906,6 +930,12 @@
     },
     "done": true
   },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_necromancy_melee": "2025-08-08 10:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-08 10:23:38 +0000"
@@ -1005,6 +1035,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-08-07 19:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-08 10:36:07 +0000"
     },
     "done": true
   },
@@ -1176,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 10:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-07 18:34:40 +0000"
@@ -1320,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 10:39:34 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/sea_lantern_slab": {
     "criteria": {
       "has_wood": "2025-08-07 17:03:11 +0000"
@@ -1361,6 +1409,12 @@
       "has_planks": "2025-08-08 10:14:29 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-08 10:33:46 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
@@ -1506,6 +1560,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 10:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-08-07 18:58:57 +0000"
@@ -1548,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-08 10:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-07 18:33:42 +0000"
@@ -1563,6 +1629,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-07 18:33:42 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-08 10:33:01 +0000"
     },
     "done": true
   },
@@ -1653,6 +1725,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-08-07 18:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-08 10:42:19 +0000"
     },
     "done": true
   },
