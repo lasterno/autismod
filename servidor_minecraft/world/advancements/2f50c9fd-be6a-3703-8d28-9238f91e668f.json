@@ -513,6 +513,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "forest_vilespine": "2025-08-08 16:30:51 +0000",
       "swamp_defiled": "2025-08-07 18:59:09 +0000",
       "plains_defiled": "2025-08-08 16:22:44 +0000"
     },
@@ -535,6 +536,12 @@
       "has_planks": "2025-08-07 19:23:01 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "shambler": "2025-08-08 16:32:12 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
