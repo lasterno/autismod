@@ -151,6 +151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-08 15:07:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
@@ -235,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-08 14:52:03 +0000"
@@ -244,6 +256,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-08-08 15:04:33 +0000"
     },
     "done": true
   },
@@ -388,6 +406,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-07 18:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:07:59 +0000"
     },
     "done": true
   },
@@ -748,6 +772,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-08 15:07:59 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2025-08-07 17:53:48 +0000"
@@ -820,6 +850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:07:59 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-07 18:17:40 +0000"
@@ -835,6 +871,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-07 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 15:07:58 +0000"
     },
     "done": true
   },
@@ -1003,6 +1045,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-08-08 14:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-08-08 14:59:35 +0000"
     },
     "done": true
   },

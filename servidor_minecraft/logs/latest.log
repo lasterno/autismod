@@ -4975,3 +4975,48 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [14:58:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
 [14:59:35] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
 [14:59:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:01:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:01:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:01:00] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:01:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:01:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:01:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:01:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:01:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:01:39] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:01:39] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was blown up by Creeper
+[15:01:48] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-190, y:22, z:200] in the dimension 0
+[15:01:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[15:03:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AmongUS moved too quickly! 0.6771833179481348,-11.141611616128863,-0.8916880767460498
+[15:04:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:04:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:04:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:04:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:04:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:04:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:04:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for AmongUS
+[15:06:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS is bleeding...
+[15:06:45] [Server thread/INFO] [tombstone]: The death event of the player AmongUS was cancelled by another mod
+[15:06:45] [Server thread/INFO] [tombstone]: AmongUS has successfully been saved
+[15:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AmongUS was slain by Cave Crawler
+[15:06:56] [Server thread/INFO] [tombstone]: The last known grave of AmongUS is at location [name:Last Grave, x:-200, y:33, z:212] in the dimension 0
+[15:06:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to AmongUS
+[15:07:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:07:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for ErPatatusssss
+[15:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:08:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:09:00] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:09:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4d159fbc)
+[15:09:00] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[15:09:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to lasterno
+[15:09:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lasterno has made the advancement [We Need to Go Deeper]
+[15:09:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for lasterno
+[15:09:01] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for lasterno

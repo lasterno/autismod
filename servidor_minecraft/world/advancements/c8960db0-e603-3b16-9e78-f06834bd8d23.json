@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 15:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-07 18:38:04 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-08 10:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-08 15:09:01 +0000"
     },
     "done": true
   },
@@ -311,6 +323,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-08-07 19:04:23 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-08-08 15:01:00 +0000"
     },
     "done": true
   },
@@ -640,6 +658,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "phantasmagoric_inferno": "2025-08-08 15:09:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-08-07 18:33:42 +0000"
@@ -757,6 +781,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 15:08:31 +0000"
     },
     "done": true
   },
@@ -922,6 +952,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-07 19:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-08 15:09:01 +0000"
     },
     "done": true
   },
@@ -1219,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 15:08:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
@@ -1294,6 +1336,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-08 12:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-08-08 14:59:45 +0000"
     },
     "done": true
   },
@@ -1471,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 15:08:31 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:root": {
     "criteria": {
       "criteria_0": "2025-08-07 18:52:23 +0000"
@@ -1600,6 +1654,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-08 09:23:31 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-08-08 15:01:00 +0000"
     },
     "done": true
   },
@@ -1807,6 +1867,12 @@
   "mcwpaths:recipes/oak_planks_path": {
     "criteria": {
       "has_planks": "2025-08-07 19:18:08 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-08-08 15:01:00 +0000"
     },
     "done": true
   },
