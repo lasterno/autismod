@@ -161,15 +161,15 @@
     },
     "done": true
   },
-  "ebwizardry:find_library_ruins": {
-    "criteria": {
-      "surface": "2025-08-08 10:42:00 +0000"
-    },
-    "done": true
-  },
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2025-08-08 10:31:21 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-08-08 10:42:00 +0000"
     },
     "done": true
   },
@@ -1568,6 +1568,7 @@
       "mesa": "2025-08-08 10:40:35 +0000",
       "forest_hills": "2025-08-07 18:01:25 +0000",
       "plains": "2025-08-07 18:07:32 +0000",
+      "mesa_clear_rock": "2025-08-08 11:53:12 +0000",
       "birch_forest_hills": "2025-08-08 10:40:00 +0000",
       "roofed_forest": "2025-08-07 18:33:16 +0000",
       "river": "2025-08-07 18:02:17 +0000",
